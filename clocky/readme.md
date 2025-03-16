@@ -1,6 +1,6 @@
 # Clocky Pwnagotchi plugins
 
-Clocky is a pwnagotchi plugin that will disguse the display as a cheeky "desk clock" while remaining fully functional behind the scenes.
+Clocky is a pwnagotchi plugin that will disguise the display as a cheeky "desk clock" while remaining fully functional behind the scenes.
 
 # Instructions
 

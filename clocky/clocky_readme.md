@@ -3,10 +3,9 @@
 > [!NOTE]
 > Clocky can take 5 seconds to kick in! Patience!.
 
-## Download
+## Download Clocky
 
 https://github.com/B0r1s-B4d3n0v/pwnagotchi-plugins/blob/main/clocky/clocky.py
-
 
 ## Companion Button plugins
 
