@@ -32,7 +32,7 @@ This script is best triggered with your PiSugar Power Manager and these instruct
 2. Change Single Tap to "Custom Shell" and click the "Edit" button
 3. Copy and paste the line below into the text field.
 
-    `sudo wget http://10.0.0.2:8080/plugins/clocky_btn?able=en`
+    `sudo curl http://10.0.0.2:8080/plugins/clocky_btn?able=en`
 
 4. That's it. You're done. 
    - Tap once to start
@@ -47,12 +47,12 @@ This script is best triggered with your PiSugar Power Manager and these instruct
 2. Change Single Tap to "Custom Shell" and click the "Edit" button
 3. Copy and paste the line below into the text field.
 
-    `sudo wget http://10.0.0.2:8080/plugins/clocky_btn?able=en`
+    `sudo curl http://10.0.0.2:8080/plugins/clocky_btn?able=en`
 
 4. Now change Double Tap to "Custom Shell" and click the "Edit" button
 5. Copy and paste the line below into the text field.
 
-    `sudo wget http://10.0.0.2:8080/plugins/clocky_btn?able=dis`
+    `sudo curl http://10.0.0.2:8080/plugins/clocky_btn?able=dis`
 
 6. That's it. You're done.
    - Tap once to start.
